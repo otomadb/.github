@@ -18,9 +18,9 @@
 1. あなたの好みの傾向を分析し、オススメの音MADを推薦する。
 1. 頑強なタグシステムを作る。
 
-### 提案など
+### 要望や提案など
 
-[ここ](https://github.com/otomadb/.github/discussions)で新機能の提案などを受け付けています。
+[ここ](https://github.com/otomadb/.github/discussions)で要望や新機能の提案などを受け付けています。
 
 ## リポジトリ
 

@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://www.otomadb.com">
-    <img src="./header.png" alt="OTOMADB" />
+    <img src="https://raw.githubusercontent.com/otomadb/assets/main/header.png" alt="OTOMADB" />
   </a>
 </h1>
 
